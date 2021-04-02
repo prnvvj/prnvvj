@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranav Vijay
 - 👀 I’m interested in Data Science and Financial Analytics
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Real World Business Problem Solving Skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me pranavvijay46@gmail.com
 
